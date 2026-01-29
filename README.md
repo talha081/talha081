@@ -31,40 +31,34 @@
   </a>
 </p>
 
-<br>
+<br/>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
+<br/>
 
 <!-- About Me Section with Modern Card Design -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> About Me
 
-```typescript
-interface TalhaGhafoor {
-  role: "AI/ML Engineer" | "Backend Architect" | "Data Scientist";
-  location: string;
-  expertise: string[];
-  currentFocus: string;
-  workStyle: string[];
-}
+<div align="center">
 
-const talha: TalhaGhafoor = {
-  role: "AI/ML Engineer",
-  location: "🌍 Remote | International Opportunities",
-  expertise: [
-    "Deep Learning & Neural Networks",
-    "Scalable Microservices Architecture", 
-    "Real-Time Data Processing",
-    "Cloud-Native Solutions"
-  ],
-  currentFocus: "Building production-grade AI systems that scale",
-  workStyle: ["Agile", "Test-Driven", "Performance-Optimized"]
-};
+🚀 **AI/ML Engineer** | **Backend Architect** | **Data Scientist**
 
-console.log("🚀 Let's build the future together!");
-```
+📍 **Location:** 🌍 Remote | Open to International Opportunities
+
+💼 **Current Focus:** Building production-grade AI systems that scale
+
+</div>
+
+### 🎯 What I Do:
+
+- 🤖 **Deep Learning & Neural Networks** - Creating intelligent systems that learn and adapt
+- ⚡ **Scalable Microservices Architecture** - Architecting high-performance backend platforms  
+- 📊 **Real-Time Data Processing** - Transforming complex data into actionable insights
+- ☁️ **Cloud-Native Solutions** - Deploying robust, scalable applications on modern infrastructure
+
+### 💻 Work Style:
+`Agile` • `Test-Driven Development` • `Performance-Optimized` • `CI/CD` • `Best Practices`
 
 <div align="center">
   
@@ -72,7 +66,11 @@ console.log("🚀 Let's build the future together!");
 
 </div>
 
-<br>
+<br/>
+
+---
+
+<br/>
 
 <!-- Tech Stack with Modern Glassmorphic Cards -->
 ## 🛠️ Technology Stack
@@ -130,42 +128,45 @@ console.log("🚀 Let's build the future together!");
 </tr>
 </table>
 
-<br>
+<br/>
+
+---
+
+<br/>
 
 <!-- GitHub Stats Section with Modern Cards -->
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=talha081&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF9F&text_color=C9D1D9&border_radius=10" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=talha081&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00FF9F&fire=FF6B9D&currStreakLabel=00D9FF&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talha081&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00FF9F&text_color=C9D1D9&border_radius=10" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=talha081&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00FF9F&fire=FF6B9D&currStreakLabel=00D9FF&border_radius=10" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha081&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8&border_radius=10&hide=html,css" />
 </div>
 
-<br>
+<br/>
 
 <!-- Contribution Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=talha081&custom_title=📈%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00FF9F&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&radius=10" width="95%"/>
 </div>
 
-<br>
+<br/>
 
 <!-- Trophy Section -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=talha081&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=talha081&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
-<br>
+<br/>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
+<br/>
 
 <!-- What I'm Looking For Section with Modern Icons -->
 ## 🎯 Open to Opportunities
@@ -175,65 +176,60 @@ console.log("🚀 Let's build the future together!");
 <table>
 <tr>
 <td align="center" width="33%">
-<br>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" width="120">
-<br><br>
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" width="100"/>
+<br/><br/>
 <img src="https://img.shields.io/badge/AI%2FML_Engineer-00D9FF?style=for-the-badge" />
-<br><br>
-<sub>Building intelligent systems<br>that learn and adapt</sub>
-<br><br>
+<br/><br/>
+<sub>Building intelligent systems<br/>that learn and adapt</sub>
+<br/><br/>
 </td>
 <td align="center" width="33%">
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,aws" width="120">
-<br><br>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,aws" width="100"/>
+<br/><br/>
 <img src="https://img.shields.io/badge/Backend_Engineer-00FF9F?style=for-the-badge" />
-<br><br>
-<sub>Architecting scalable<br>high-performance systems</sub>
-<br><br>
+<br/><br/>
+<sub>Architecting scalable<br/>high-performance systems</sub>
+<br/><br/>
 </td>
 <td align="center" width="33%">
-<br>
-<img src="https://skillicons.dev/icons?i=python,sklearn" width="120">
-<br><br>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,sklearn" width="100"/>
+<br/><br/>
 <img src="https://img.shields.io/badge/Data_Scientist-FF6B9D?style=for-the-badge" />
-<br><br>
-<sub>Transforming data into<br>actionable insights</sub>
-<br><br>
+<br/><br/>
+<sub>Transforming data into<br/>actionable insights</sub>
+<br/><br/>
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
 ### 🌍 **Remote & International | Full-Time & Contract**
 
 </div>
 
-<br>
+<br/>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
+<br/>
 
 <!-- Call to Action Section -->
 ## 💼 Let's Connect & Build Together
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-
-<br><br>
-
 ### 🎯 **Recruiting? Let's Talk!**
 
-<br>
+<br/>
 
 Whether you're a **recruiter**, **hiring manager**, or **founder**,  
 I'm eager to discuss how I can drive impact for your team.
 
-<br>
+<br/>
 
 <!-- CTA Buttons -->
 <a href="mailto:talha.ghafoor2021@namal.edu.pk">
@@ -244,15 +240,11 @@ I'm eager to discuss how I can drive impact for your team.
   <img src="https://img.shields.io/badge/🌐_View_Portfolio-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000" height="40"/>
 </a>
 
-<br><br>
+<br/><br/>
 
 ### ⭐ **Love what you see? Star my repositories!**
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="250">
-
-<br>
+<br/>
 
 ---
 
@@ -260,13 +252,13 @@ I'm eager to discuss how I can drive impact for your team.
 
 <img src="https://komarev.com/ghpvc/?username=talha081&color=00D9FF&style=for-the-badge&label=VISITORS" />
 
-<br>
+<br/>
 
 **✨ Thank you for stopping by! Let's innovate together ✨**
 
 </div>
 
-<br><br>
+<br/><br/>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
