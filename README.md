@@ -64,20 +64,6 @@ Also working with: **Qdrant** (vector search), **MLflow**, **PySpark**
 
 <br/>
 
-## Featured Projects
-
-**[Urdu OCR Text Recognition](https://github.com/talha081/URDU-OCR-ML-PROJECT)**
-Synthetic dataset generation and augmentation pipeline (erosion, dilation, rotation, noise) for a low-resource language OCR system.
-
-**Patient Communication Platform** — *client delivery*
-HIPAA-compliant telehealth platform (MERN + React Native) with encrypted chat, video calls, and real-time EHR access — serving 1,000+ active users.
-
-**Sales Forecasting with Hybrid ARIMA–LSTM**
-Combined ARIMA for trend/seasonality with LSTM for nonlinear dependencies to support inventory and revenue planning.
-
-**Customer Churn Prediction**
-Logistic Regression, Decision Trees, and Random Forests compared to flag at-risk customers — 90% prediction accuracy.
-
 <br/>
 
 ## GitHub Stats
