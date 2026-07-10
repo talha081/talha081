@@ -2,7 +2,7 @@
 
 # Muhammad Talha Ghafoor
 
-**AI/ML Engineer · Backend Architect · Computer Vision**
+**Full Stack Engineer . AI/ML Engineer · Backend Architect · Computer Vision**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1400&color=6366F1&center=true&vCenter=true&width=580&lines=Building+AI+systems+that+reach+production;Biometric+auth+%C2%B7+CV+pipelines+%C2%B7+forecasting;FastAPI+%C2%B7+PostgreSQL+%C2%B7+Qdrant+%C2%B7+AWS" alt="Typing SVG" />
 
