@@ -69,8 +69,16 @@ Also working with: **Qdrant** (vector search), **MLflow**, **PySpark**
 ## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=talha081&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&text_color=9CA3AF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha081&layout=compact&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=9CA3AF&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=talha081&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&text_color=9CA3AF&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha081&layout=compact&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=9CA3AF&langs_count=6&cache_seconds=86400" />
+</div>
+
+<br/>
+
+## Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=talha081&theme=tokyonight&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
 </div>
 
 <br/>
