@@ -69,8 +69,8 @@ Also working with: **Qdrant** (vector search), **MLflow**, **PySpark**
 ## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=talha081&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&text_color=9CA3AF&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha081&layout=compact&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=9CA3AF&langs_count=6&cache_seconds=86400" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=talha081&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&text_color=9CA3AF&cache_seconds=86400" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=talha081&layout=compact&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=9CA3AF&langs_count=6&cache_seconds=86400" />
 </div>
 
 <br/>
