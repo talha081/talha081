@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E1E2E?style=flat-square&logo=vercel&logoColor=6366F1)](https://talha-ghafoor.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E1E2E?style=flat-square&logo=vercel&logoColor=6366F1)](https://github-profile-trophy-two-pink.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-1E1E2E?style=flat-square&logo=gmail&logoColor=6366F1)](mailto:talha.ghafoor1209@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1E1E2E?style=flat-square&logo=github&logoColor=6366F1)](https://github.com/talha081)
 
