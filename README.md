@@ -101,6 +101,16 @@ Logistic Regression, Decision Trees, and Random Forests compared to flag at-risk
 
 <br/>
 
+## Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=talha081&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+
+</div>
+
+<br/>
+
 <div align="center">
 
 Open to remote AI/ML, backend, and computer-vision roles.
