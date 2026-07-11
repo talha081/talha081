@@ -1,0 +1,46 @@
+<svg width="100%" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Muhammad Talha Ghafoor — Full-Stack Engineer, AI/ML, Computer Vision">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0D14"/>
+      <stop offset="100%" stop-color="#181B2A"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+
+  <!-- abstract embedding-space node network -->
+  <g stroke="#6366F1" stroke-width="1" opacity="0.35">
+    <line x1="860" y1="60" x2="955" y2="108"/>
+    <line x1="955" y1="108" x2="928" y2="188"/>
+    <line x1="955" y1="108" x2="1045" y2="78"/>
+    <line x1="1045" y1="78" x2="1132" y2="140"/>
+    <line x1="928" y1="188" x2="1028" y2="214"/>
+    <line x1="1028" y1="214" x2="1132" y2="140"/>
+    <line x1="1045" y1="78" x2="1108" y2="38"/>
+    <line x1="860" y1="60" x2="895" y2="150"/>
+    <line x1="895" y1="150" x2="928" y2="188"/>
+  </g>
+  <g fill="#6366F1">
+    <circle cx="860" cy="60" r="4"/>
+    <circle cx="955" cy="108" r="5"/>
+    <circle cx="928" cy="188" r="4"/>
+    <circle cx="1045" cy="78" r="4"/>
+    <circle cx="1132" cy="140" r="5"/>
+    <circle cx="1028" cy="214" r="4"/>
+    <circle cx="1108" cy="38" r="3"/>
+    <circle cx="895" cy="150" r="3"/>
+  </g>
+  <g fill="#22D3EE">
+    <circle cx="955" cy="108" r="2"/>
+    <circle cx="1132" cy="140" r="2"/>
+  </g>
+
+  <!-- identity -->
+  <text x="60" y="122" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#F4F5F7">Muhammad Talha Ghafoor</text>
+  <text x="61" y="158" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#9CA3C0" letter-spacing="1">FULL-STACK ENGINEER · AI/ML · COMPUTER VISION</text>
+  <rect x="61" y="178" width="120" height="3" rx="1.5" fill="url(#accentLine)"/>
+</svg>
